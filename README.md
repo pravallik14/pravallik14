@@ -4,7 +4,7 @@
 
 ## 🚀 About Me</br>
 
-- 🔭 Currently working on: Your final year project on Heart Rate Prediction using Python and ML models</br> 
+- 🔭 Currently working on: Heart Rate Prediction using Python and ML models</br> 
 - 👯 Looking to collaborate on: [Intern , projects]</br>
 - 📫 How to reach me: [pravallikach69@gmail.com] | [www.linkedin.com/in/pravallikachoppa]</br>
 
